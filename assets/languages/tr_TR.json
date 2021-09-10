@@ -9,5 +9,8 @@
   "permissions": "İzinler",
   "phone_language": "Telefon Dili",
   "privacy": "Gizlilik",
-  "turkish": "Türkçe"
+  "turkish": "Türkçe",
+  "car_title": "Araba",
+  "fuel_title": "Yakıt",
+  "car_parts_title": "Araba Parçaları",
 }

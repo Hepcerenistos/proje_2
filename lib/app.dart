@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
         return supportedLocales.first;
       },
 
-      home: intro(),
+      home: OnBoardingView(),
     );
   }
 }
